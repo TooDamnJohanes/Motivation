@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="textInicial">Vamos Começar?</string>
+    <string name="inputName">Qual o seu nome?</string>
+    <string name="textButton">salvar</string>
+    <string name="singture">Design by TooDamnJohanes</string>
+</resources>
